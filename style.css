@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 0rem;
+  background-color: #8eafd1;
+}
+p {
+  color: aliceblue;
+}
+.btn-group {
+  display: flex;
+  margin-top: 3rem;
+  position: absolute;
+}
+.btn-group .btn-danger{
+  color: white;
+  background-color: hsl(240, 100%, 50%);
+  margin-right: 20px;
+}
+.btn-group .btn-warning{
+  color: white;
+  background-color: blue;
+  margin-right: 20px;
+}
+.btn-group .btn-success{
+  color: white;
+  background-color: blue;
+  margin-right: 20px;
+}
